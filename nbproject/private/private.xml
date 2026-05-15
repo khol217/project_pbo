@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/TinggiException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Bola.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/gui/MainGUI.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Tembereng.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/EmptyInputException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/thread/StressTestThread.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/InterruptedException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/abstracts/AbstractBangunRuang.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/utils/Konstanta.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Lingkaran.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/utils/Validator.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Kerucut.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/SudutException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/RadiusException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/exceptions/NumberException.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/thread/HitungThread.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/abstracts/AbstractBangunDatar.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Cincin.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/interfaces/BangunRuang.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/KerucutTerpancung.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/app/Project_pbo.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Tabung.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/bangun/Juring.java</file>
+            <file>file:/D:/java_project/praktikum/project_pbo/src/interfaces/BangunDatar.java</file>
+        </group>
+    </open-files>
+</project-private>
